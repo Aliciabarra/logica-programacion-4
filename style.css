@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    max-width: 100%;
+    margin: 20px auto 10px;
+    color: #fff;
+}
+
+body{
+    text-align: center;
+    font-size: 30px;
+    background-color: #e9cbde; /* Fondo negro */
+    color: #030000; /*letras blancas*/
+}
